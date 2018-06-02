@@ -1,4 +1,8 @@
-Smart Budget Tracker folder contains the following files:
+# Demo # 
+
+![Demo Gif](https://github.com/AnoopaChandrasekharan/Smart-Budget-Tracker/blob/master/Smartbudgettracker.gif?raw=true)
+
+# Smart Budget Tracker folder contains the following files: #
 
 1.Entire Project folder: SBT Android
 
